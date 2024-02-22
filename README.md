@@ -25,3 +25,10 @@ Código (entre crases)
 
 Link:
 [Site IFC](https://ifc.edu.br/)
+
+Tabela
+
+Número|Nome|Nota
+-|-|-
+1|Elis|9.0
+2|Ana|8.0
